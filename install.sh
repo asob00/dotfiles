@@ -34,6 +34,7 @@ yay -S --noconfirm \
     obs-studio \
     thunderbird \
     tmux \
+    vim \
     visual-studio-code-bin \
     youtube-dl \
     zip \
@@ -69,9 +70,9 @@ chsh -s /bin/zsh
 # Powerlevel10k
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 
-sudo rm -Rf ~/.bashrc
-sudo rm -Rf ~/.zshhrc
-sudo rm -Rf ~/.p10k.zsh
+rm -Rf ~/.bashrc
+rm -Rf ~/.zshhrc
+rm -Rf ~/.p10k.zsh
 
 dotfiles_directory=~/dotfiles
 
