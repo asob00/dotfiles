@@ -1,0 +1,9 @@
+[Unit]
+Description=rsync files to NAS
+
+[Service]
+User=adam
+ExecStart=/home/adam/.dotfiles/scripts/rsync_watch.sh /home/adam/.ssh/id_rsa adam 192.168.0.199 backup
+
+[Install]
+WantedBy=multi-user.target

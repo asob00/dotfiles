@@ -1,0 +1,88 @@
+{
+    "path": "/home/adam/AGH/III_SEMESTR/",
+    "classes": [{
+            "name": "Fizyka",
+            "start": 675,
+            "day": "Pt",
+            "type": "W"
+        },
+        {
+            "name": "Krypto",
+            "start": 770,
+            "day": "Wt",
+            "type": "L"
+        },
+        {
+            "name": "Krypto",
+            "start": 480,
+            "day": "Pn",
+            "type": "W"
+        },
+        {
+            "name": "BLSK",
+            "start": 480,
+            "day": "Wt",
+            "type": "W"
+        },
+        {
+            "name": "BAWIM",
+            "start": 575,
+            "day": "Wt",
+            "type": "W"
+        },
+        {
+            "name": "SysOpy",
+            "start": 480,
+            "day": "Sr",
+            "type": "W"
+        },
+        {
+            "name": "SysOpy",
+            "start": 575,
+            "day": "Sr",
+            "type": "L"
+        },
+        {
+            "name": "Skrypty",
+            "start": 675,
+            "day": "Czw",
+            "type": "W"
+        },
+        {
+            "name": "Spo\u0142eczna",
+            "start": 575,
+            "day": "Pn",
+            "type": "W"
+        },
+        {
+            "name": "Fizyka",
+            "start": 1170,
+            "day": "Czw",
+            "type": "C"
+        },
+        {
+            "name": "Skrypty",
+            "start": 770,
+            "day": "Czw",
+            "type": "L"
+        },
+        {
+            "name": "BLSK",
+            "start": 1070,
+            "day": "Czw",
+            "type": "L"
+        },
+        {
+            "name": "Fizyka",
+            "start": 575,
+            "day": "Pt",
+            "type": "L"
+        },
+        {
+            "name": "BAWIM",
+            "start": 675,
+            "day": "Wt",
+            "type": "L"
+        }
+    ]
+}

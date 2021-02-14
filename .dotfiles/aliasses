@@ -1,0 +1,36 @@
+alias alise="alias"
+alias alisa="alias"
+alias I="cd ~/AGH/I\ SEMESTR"
+alias II="cd ~/AGH/II\ SEMESTR"
+alias III="cd ~/AGH/III_SEMESTR"
+alias AGH="cd ~/AGH"
+alias sl="ls"
+alias ll="ls -al --color=always"
+alias usrc="source ~/.zshrc"
+alias pluralsight="youtube-dl -ciw --username \"adkopl@protonmail.com\" --password \"8tfKCxQLcDTvrXRe\" --min-sleep-interval 180 --max-sleep-interval 240 --verbose --add-header Referer:https://app.pluralsight.com/library/courses/ -o \"~/Pulpit/Pluralsight/%(playlist)s/%(playlist_index)s-%(title)s.%(ext)s\""
+alias cls="clear"
+alias is="ping 8.8.8.8"
+alias PP="cd ~/AGH/II\ SEMESTR/PP/Laby/"
+alias vbox-dhcp="VBoxManage dhcpserver add --netname intnet --ip 10.13.13.100 --netmask 255.255.255.0 --lowerip 10.13.13.101 --upperip 10.13.13.254 --enable"
+alias Pulpit='cd ~/Pulpit'
+alias pulpit='cd ~/Pulpit'
+alias aliasses='vim ~/.dotfiles/aliasses'
+alias dotfiles='cd ~/.dotfiles'
+alias cp='cp -v'
+alias rm='rm -iv'
+alias pl='pluralsight'
+alias add_class='/home/adam/.dotfiles/sort_lectures/main.py add'
+alias natas='/home/adam/.dotfiles/scripts/natas_adder.sh'
+# alias jupyter='source /opt/anaconda/bin/activate && jupyter notebook'
+alias nas_connect='ssh Adam@192.168.0.192'
+alias music_download="youtube-dl -f 140 -o '/home/adam/M/'"
+alias ls='ls --color=always'
+alias jupyter='sudo docker start jupyter'
+alias compile='echo Compiling main.c with command "gcc main.c -o main" && gcc main.c -o main'
+alias req='pip freeze > requirements.txt'
+alias pi_ping='ping 192.168.0.66'
+alias pi_connect='ssh pi@192.168.0.66'
+alias pi_check='sudo arp-scan -l | grep Raspberry'
+alias jupyter_stop='sudo docker stop jupyter'
+alias minecraft='cd ~/MinecraftServer && java -Xmx4096M -Xms4096M -jar ~/MinecraftServer/server.jar nogui'
+alias cat='bat'
