@@ -9,6 +9,7 @@ yay -Syyu --noconfirm
 # Install most used
 yay -S --noconfirm \
     amass \
+    aquatone \
     bat \
     burpsuite \
     calibre \
@@ -19,6 +20,7 @@ yay -S --noconfirm \
     firefox \
     flameshot \
     gimp \
+    go \
     google-chrome \
     gobuster \
     hexedit \
@@ -27,6 +29,7 @@ yay -S --noconfirm \
     kdeconnect \
     keepassxc \
     maltego \
+    net-tools \
     nmap \
     nodejs \
     notepadqq \
